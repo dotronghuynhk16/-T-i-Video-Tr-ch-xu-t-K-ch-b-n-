@@ -1,0 +1,8 @@
+{
+  "name": "VidSwift AI - Video Downloader & Transcriber",
+  "description": "An all-in-one AI-powered tool to download watermark-free videos from TikTok, Facebook, and YouTube, and extract high-accuracy transcripts instantly using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
